@@ -1,0 +1,10 @@
+
+La implementación de plataformas tecnológicas para el registro y consulta de incidencias es fundamental 
+para empoderar a las comunidades y mejorar su entorno. Al permitir que los ciudadanos reporten problemas
+de manera digital, se agiliza la comunicación directa con las administraciones encargadas de dar solución. 
+La consulta pública de estos reportes fomenta la transparencia, ya que los vecinos pueden verificar si un 
+problema ya fue notificado, evitando duplicados en el sistema. Además, centralizar los datos en una infraestructura
+tecnológica facilita que los gobiernos locales identifiquen patrones de fallas recurrentes mediante herramientas
+de análisis. Esto optimiza la asignación de recursos públicos, priorizando los sectores más vulnerables o afectados. 
+En última instancia, estas herramientas digitales transforman la gestión comunitaria en un proceso colaborativo,
+transparente y mucho más eficiente para todos.
